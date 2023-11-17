@@ -13,13 +13,15 @@ Sabemos que los Componentes de React tiene que cumplir el principio de una sóla
 #### A modo de ayuda y guia
 
 - Los personajes de GOT, ya se encuentran en un estado colocado en el archivo App.jsx
+- Implementar localStorage
 - La estructura visual de arriba hacia abajo deberia ser: el header, el formulario, los personajes y al final el footer
 - El formulario para agregar personajes debe estar controlado manualmente o con una libreria. Los campos para el formulario:
   1. fullName
   2. title
   3. family
   4. imageUrl (Opcional)
-- Al agregar el personaje deberia verse reflejado automaticamente en la lista de personajes. (Como el array de personajes en data esta estatico, para el renderizado de estos en la propiedad key utilizar el `index` del array en vez del `id`)
+- Al agregar un nuevo personaje deberia guardarse en localStorage junto con los demas ya establecidos
+- Al agregar el personaje deberia verse reflejado automaticamente en la lista de personajes. (Para el renderizado de estos en la propiedad key utilizar el `index` del array en vez del `id`)
 - Se debe trabajar con una libreria basada en componentes
 
 ### Instrucciones para correr el proyecto
