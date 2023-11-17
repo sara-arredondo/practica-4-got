@@ -14,7 +14,7 @@ Sabemos que los Componentes de React tiene que cumplir el principio de una sóla
 
 - Los personajes de GOT, ya se encuentran en un estado colocado en el archivo App.jsx
 - Implementar localStorage
-- La estructura visual de arriba hacia abajo deberia ser: el header, el formulario, los personajes y al final el footer
+- La estructura visual de arriba hacia abajo deberia ser: el header, el formulario, los personajes y al final el footer. (El Banner pueden colocarlo o no, donde ustedes quieran)
 - El formulario para agregar personajes debe estar controlado manualmente o con una libreria. Los campos para el formulario:
   1. fullName
   2. title
