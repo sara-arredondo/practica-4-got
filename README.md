@@ -20,7 +20,7 @@ Sabemos que los Componentes de React tiene que cumplir el principio de una sóla
   2. title
   3. family
   4. imageUrl (Opcional)
-- Al agregar un nuevo personaje deberia guardarse en localStorage junto con los demas ya establecidos
+- Al agregar un nuevo personaje deberia guardarse en localStorage y en el estado junto con los demas ya establecidos
 - Al agregar el personaje deberia verse reflejado automaticamente en la lista de personajes. (Para el renderizado de estos en la propiedad key utilizar el `index` del array en vez del `id`)
 - Se debe trabajar con una libreria basada en componentes
 
