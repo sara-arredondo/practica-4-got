@@ -2,7 +2,7 @@
 
 ### Ejercicio
 
-> **Nota**: La idea detras de esta ejercitacion es aplicar control de formularios, y la practica con useState.
+> **Nota**: La idea detras de esta ejercitacion es aplicar control de formularios, practica con useState e implementacion de libreria basada en componentes.
 
 En este caso los componentes no estan creados, los componentes a crear sera Header, Banner, AddCharacter, ContainCard, Card y Footer.
 
@@ -20,11 +20,7 @@ Sabemos que los Componentes de React tiene que cumplir el principio de una sóla
   3. family
   4. imageUrl (Opcional)
 - Al agregar el personaje deberia verse reflejado automaticamente en la lista de personajes. (Como el array de personajes en data esta estatico, para el renderizado de estos en la propiedad key utilizar el `index` del array en vez del `id`)
-- Se puede trabajar con estilos (Opcional)
-
-> **Nota**: ACOMODAR LOS COMPONENTES EN EL ARCHIVO APP.JSX YA QUE ES NUESTRA PUERTA DE ENTRADA
->
-> No te preocupes por el estilo de los componentes. En siguientes practicas implementaremos estilos, utilizaremos algunos estilos en linea por el momento (Las imagenes son puramente ilustrativas).
+- Se debe trabajar con una libreria basada en componentes
 
 ### Instrucciones para correr el proyecto
 
