@@ -9,7 +9,7 @@ function Header() {
       <AppBar position="static" sx={{ backgroundColor: "#272727", height:'100px', alignItems: 'center' }}>
         <Toolbar>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Game of Thornes
+            Game of Thrones
           </Typography>
         </Toolbar>
       </AppBar>
