@@ -6,7 +6,7 @@ import Banner from "./components/Banner.jsx";
 import AddCharacter from "./components/AddCharacter.jsx";
 import ContainCard from "./components/ContainCard.jsx";
 import Footer from "./components/Footer.jsx";
-import { idID } from "@mui/material/locale";
+
 
 function App() {
   const [characters, setCharacters] = useState(() => {

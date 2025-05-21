@@ -16,7 +16,7 @@ export default function CardCharacter ({
 
 {
     return (
-        <Card sx={{ Width: 345 }}>
+        <Card sx={{ width: 345 }}>
             <CardMedia
                 sx={{ height: 300 }}
                 image={imageUrl}

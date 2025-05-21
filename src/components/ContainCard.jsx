@@ -3,7 +3,7 @@ import { Box } from '@mui/material';
 
 export default function ContainCard({ characters }) {
   return (
-    <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 3, padding: 4 }}>
+    <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 3, padding: 4, justifyContent: 'center' }}>
       {characters.length > 0 ? (
         characters.map((char) => (
           <CardCharacter
